@@ -68,8 +68,5 @@ A real-time, multiplayer Battleship game played directly in the Linux Terminal. 
 | **W** | Diagonal Scan | Scans diagonal line in 3x3 area |
 | **Q** | Quit | Exit the game safely |
 
-## 📸 Screenshots
-*(You can upload screenshots to your repo later and link them here)*
-
 ---
 *Built for the Computer Architecture / Systems Programming course.*
