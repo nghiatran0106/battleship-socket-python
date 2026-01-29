@@ -25,7 +25,7 @@ A real-time, multiplayer Battleship game played directly in the Linux Terminal. 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/battleship-socket.git](https://github.com/YOUR_USERNAME/battleship-socket.git)
+    git clone https://github.com/nghiatran0106/battleship-socket-python
     cd battleship-socket
     ```
 
